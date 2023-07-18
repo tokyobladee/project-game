@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f4e5139e2ae20224cb756f5abb5bb1fd
+guid: dfb3ccac9a080b54cbce1547de36e318
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -141,85 +141,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: character (2)_0
+      name: character (5)_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 224
+        x: 9
+        y: 88
         width: 17
         height: 29
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37a106c4779536b4b8d498b68015c3f9
-      internalID: -2000163673
+      spriteID: ae7ffb52b9a396449ba0c932608879fc
+      internalID: 1178224490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character (2)_1
+      name: character (5)_1
       rect:
         serializedVersion: 2
-        x: 18
-        y: 224
-        width: 17
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 399f6982437a41641b219852ae2f5d0a
-      internalID: -1071546316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: character (2)_walk1
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 190
+        x: 43
+        y: 89
         width: 17
         height: 29
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdb4413740238db46a07d7f214ca340e
-      internalID: 139381928
+      spriteID: 84dd15995bb04da4bb5dae0d9b9d29ba
+      internalID: -140571165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character (2)_walk2
+      name: character (5)_2
       rect:
         serializedVersion: 2
-        x: 18
-        y: 191
+        x: 77
+        y: 89
         width: 17
-        height: 28
+        height: 29
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de9d52e015aa0264eb9026811509f0fe
-      internalID: 567277023
+      spriteID: 626b928cb8214a441bdfc97dd524c043
+      internalID: 787217805
       vertices: []
       indices: 
       edges: []
@@ -235,11 +214,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      character (2)_0: -2000163673
-      character (2)_1: -1071546316
-      character (2)_4: -1208462820
-      character (2)_walk1: 139381928
-      character (2)_walk2: 567277023
+      character (5)_0: 1178224490
+      character (5)_1: -140571165
+      character (5)_2: 787217805
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f4e5139e2ae20224cb756f5abb5bb1fd
+guid: 5043ff8b36ca8da49bf7b5393ea7bd19
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -141,11 +141,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: character (2)_0
+      name: character (4)_back1
       rect:
         serializedVersion: 2
-        x: 1
-        y: 224
+        x: 9
+        y: 155
         width: 17
         height: 29
       alignment: 0
@@ -155,39 +155,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37a106c4779536b4b8d498b68015c3f9
-      internalID: -2000163673
+      spriteID: e6d47b22063d13b408503c2412aebcf7
+      internalID: -472020025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character (2)_1
+      name: character (4)_back2
       rect:
         serializedVersion: 2
-        x: 18
-        y: 224
-        width: 17
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 399f6982437a41641b219852ae2f5d0a
-      internalID: -1071546316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: character (2)_walk1
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 190
+        x: 44
+        y: 156
         width: 17
         height: 29
       alignment: 0
@@ -197,18 +176,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdb4413740238db46a07d7f214ca340e
-      internalID: 139381928
+      spriteID: 629f039aa37dbd64db226339a17c5a3d
+      internalID: 2143969983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character (2)_walk2
+      name: character (4)_back3
       rect:
         serializedVersion: 2
-        x: 18
-        y: 191
+        x: 78
+        y: 157
         width: 17
         height: 28
       alignment: 0
@@ -218,8 +197,113 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de9d52e015aa0264eb9026811509f0fe
-      internalID: 567277023
+      spriteID: 4f49217c116fa83429d0019f7359579e
+      internalID: 313042224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character (4)_side1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 122
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d01c51c1b5f8a04e80a4d1b7be4e9e8
+      internalID: -1298368963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character (4)_side2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 123
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9023328e50091c84bacc59c8fc028105
+      internalID: -1989396592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character (4)_side3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 123
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c65abd54911b6b488377a5285e44771
+      internalID: -2105095478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character (4)_side4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 123
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f90480a9c6c014b8e5f6233f54e950
+      internalID: -656256625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character (4)_side5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 123
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868e76510d8b1874d806ae49f39057df
+      internalID: -238578930
       vertices: []
       indices: 
       edges: []
@@ -235,11 +319,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      character (2)_0: -2000163673
-      character (2)_1: -1071546316
-      character (2)_4: -1208462820
-      character (2)_walk1: 139381928
-      character (2)_walk2: 567277023
+      character (4)_back1: -472020025
+      character (4)_back2: 2143969983
+      character (4)_back3: 313042224
+      character (4)_side1: -1298368963
+      character (4)_side2: -1989396592
+      character (4)_side3: -2105095478
+      character (4)_side4: -656256625
+      character (4)_side5: -238578930
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

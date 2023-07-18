@@ -1,9 +1,10 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 public class Fighter : Mover
 {
-    public float health { get; private set; }
-
+    public float MaxHealth;
+    public float health;
     protected virtual void Attack()
     {
         Debug.Log("Attack");
@@ -13,5 +14,18 @@ public class Fighter : Mover
     {
         health -= damage;
         Debug.Log($"Health: {health}");
+    }
+
+    private void FixedUpdate()
+    {
+        if (health <= 0)
+        {
+            Destroy(gameObject);
+        }
+
+        if (health > MaxHealth)
+        {
+            health = MaxHealth;
+        }
     }
 }
